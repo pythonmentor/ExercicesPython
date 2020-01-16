@@ -11,10 +11,10 @@ Voici la table des matières détaillée des exercices:
 - Les bases de python
   - Objets standards
   - Boucles et conditions
-- Fonctions - les bases
-- Fonctions - projet labyrinthe
-- Classes - bases
-- Classes - projet labyrinthe
-- Pygame - bases
-- Pygame - projet labyrinthe
-- Outils
+  - Fonctions - les bases
+  - Fonctions - projet labyrinthe
+  - Classes - bases
+  - Classes - projet labyrinthe
+  - Pygame - bases
+  - Pygame - projet labyrinthe
+  - Outils
