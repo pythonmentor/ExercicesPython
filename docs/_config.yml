@@ -1,1 +1,10 @@
+# Name of website
+title: ApprendrePython
+
+# Short description of your site
+description: Une collection d'exercices pour apprendre python
+
+author:
+  name: Thierry Chappuis
+
 theme: jekyll-theme-minimal
