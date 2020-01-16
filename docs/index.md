@@ -1,1 +1,3 @@
-# Exercices dédiés à l'apprentissage de Python
+---
+title: Exercices dédiés à l'apprentissage de Python
+---
