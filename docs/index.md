@@ -8,15 +8,13 @@ Mes étudiants peuvent directement me soumettre leurs exercices pour correction 
 
 Voici la table des matières détaillée des exercices:
 
-1. Les bases de python
-
-  1.1 Objets standards
-  
-  2. Boucles et conditions
-  2. Fonctions - les bases
-  3. Fonctions - projet labyrinthe
-  4. Classes - bases
-  5. Classes - projet labyrinthe
-  6. Pygame - bases
-  7. Pygame - projet labyrinthe
-  8. Outils
+- Les bases de python
+  - Objets standards
+  - Boucles et conditions
+- Fonctions - les bases
+- Fonctions - projet labyrinthe
+- Classes - bases
+- Classes - projet labyrinthe
+- Pygame - bases
+- Pygame - projet labyrinthe
+- Outils
