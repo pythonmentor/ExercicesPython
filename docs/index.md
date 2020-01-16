@@ -10,7 +10,7 @@ Mes étudiants peuvent directement me soumettre leurs exercices pour correction 
 ## Table des matières
 Voici la table des matières détaillée des exercices:
 
-- Les bases de python
+1. Les bases de python
   - Objets standards
   - Boucles et conditions
   - Fonctions - les bases
